@@ -42,4 +42,4 @@ The script will then create a new .JSON file with proper indentation. It will be
 
 # Licence
 
-This project is licenced under the MIT Lincence.
+This project is licenced under the MIT Licence.
