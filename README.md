@@ -1,6 +1,6 @@
 # json-indent
 
-A python script that reads a '.json' file, formats it with proper indentation, and saves the formatted version to a new file.
+A Python script that reads a '.json' file, formats it with proper indentation, and saves the formatted version to a new file.
 
 # Prerequisites
 
